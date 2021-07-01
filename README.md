@@ -27,13 +27,13 @@ Our final model takes into consideration the most important features in a home t
 
 
 ## For More Information
-Please review our full analysis in our jupyter notebook or our presentation.
+Please review our full analysis in [our jupyter notebook](./finalnotebook.ipynb) or [our presentation](./Phase_2_Presentation.pptx).
 
-For any additional questions, please contact Kamryn Bendolph at krbendol@bsc.edu, Wil Dotson at jwdotson@bsc.edu, & Will Toranto at williamtoranto@gmail.com
+For any additional questions, please contact **Kamryn Bendolph at krbendol@bsc.edu, Wil Dotson at jwdotson@bsc.edu, & Will Toranto at williamtoranto@gmail.com**
 
 
 ## Repository Structure
-
+```
 project-folder
     |
     README.md
@@ -47,3 +47,5 @@ project-folder
                   member-1-notebooks-folder
                   member-2-notebooks-folder 
                   member-3-notebooks-folder  
+ ```
+ 
