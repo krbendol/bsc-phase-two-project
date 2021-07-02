@@ -16,7 +16,7 @@ To model our data, we used linear regressions to display model our baseline and 
 
 
 ## Results
-Our final model takes into consideration the most important features in a home that have direct impact on the sale price of that home. Based on trial and error we came up with an optimal 
+Our final model takes into consideration the most important features in a home that have direct impact on the sale price of that home. Based on trial and error we came up with an optimal model that had an average error of $169,833 and an r-squared value of 0.8391. This means that 83.91% of the data fit our baseline regression model for the testing dataset.
 
 
 
